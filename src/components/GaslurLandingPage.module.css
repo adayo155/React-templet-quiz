@@ -1,0 +1,245 @@
+.gaslurLandingPageChild {
+  position: absolute;
+  top: 224px;
+  left: 855px;
+  border-radius: 35.02px; 
+  background: linear-gradient(
+    169.44deg,
+    rgba(58, 129, 191, 0.08),
+    rgba(65, 48, 90, 0.08)
+  );
+  backdrop-filter: blur(1110px);
+  width: 504px;
+  height: 585px;
+}
+.gaslurLandingPageInner,
+.gaslurLandingPageItem {
+  position: absolute;
+  top: 138px;
+  left: 815px;
+  border-radius: 50%;
+  background-color: #fb37ff;
+  filter: blur(200px);
+  width: 123px;
+  height: 123px;
+}
+.gaslurLandingPageInner {
+  top: 749px;
+  left: 1252px;
+  background-color: #18b2de;
+}
+.discoverCollectAnd,
+.inAeneanPosuere {
+  position: absolute;
+  left: 80px;
+  display: inline-block;
+  width: 637px;
+}
+.discoverCollectAnd {
+  top: 237px;
+  font-size: 72px;
+  letter-spacing: -2px;
+  line-height: 82px;
+  font-weight: 600;
+}
+.inAeneanPosuere {
+  top: 589px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.5px;
+  line-height: 36px;
+  color: #e2e2e2;
+}
+.explore {
+  position: relative;
+  letter-spacing: -1px;
+  line-height: 36px;
+  font-weight: 600;
+}
+.createWrapper,
+.exploreWrapper {
+  position: absolute;
+  top: 729px;
+  border-radius: var(--br-base);
+  box-sizing: border-box;
+  width: 218px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xs) var(--padding-5xl);
+  font-size: var(--font-size-5xl);
+}
+.exploreWrapper {
+  left: 80px;
+  background: linear-gradient(
+    103.91deg,
+    #9b51e0 19.72%,
+    rgba(48, 129, 237, 0.8)
+  );
+}
+.createWrapper {
+  left: 338px;
+  border: 1px solid var(--color-lightgray);
+  color: var(--color-lightgray);
+}
+.create1,
+.signIn {
+  position: absolute;
+  top: 12px;
+  left: 158px;
+  letter-spacing: 1.5px;
+  line-height: 22px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.create1 {
+  left: 36px;
+}
+.groupChild {
+  border-radius: 10px;
+  border: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+}
+.createParent,
+.groupChild,
+.signInParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 126px;
+  height: 45px;
+}
+.signInParent {
+  top: 20px;
+  left: 1148px;
+  width: 211px;
+  font-size: var(--font-size-xs);
+  color: var(--color-silver);
+}
+.heart24Icon {
+  position: absolute;
+  height: 0.57%;
+  width: 1.67%;
+  top: 17.95%;
+  right: 9.58%;
+  bottom: 81.48%;
+  left: 88.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.laura,
+.weAreHere {
+  position: absolute;
+  top: 729px;
+  left: 950px;
+  line-height: 24px;
+  font-weight: 600;
+}
+.weAreHere {
+  left: 1228px;
+}
+.weth {
+  top: 757px;
+  left: 950px;
+  line-height: 24px;
+  font-weight: 500;
+  color: var(--color-lightgray);
+}
+.div,
+.groupIcon,
+.weth {
+  position: absolute;
+}
+.groupIcon {
+  top: 726px;
+  left: 881px;
+  width: 61px;
+  height: 65px;
+}
+.div {
+  top: 756px;
+  left: 1310px;
+  line-height: 24px;
+  font-weight: 500;
+  color: var(--gray-5);
+}
+.activity,
+.home,
+.howItWorks,
+.myProfile {
+  position: absolute;
+  top: 0;
+  letter-spacing: 1.5px;
+  line-height: 22px;
+  text-transform: uppercase;
+}
+.home {
+  left: 0;
+  background: linear-gradient(93.51deg, #9b51e0, #3081ed);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.activity,
+.howItWorks,
+.myProfile {
+  left: 73px;
+  font-weight: 500;
+}
+.activity,
+.howItWorks {
+  left: 185px;
+}
+.howItWorks {
+  left: 281px;
+}
+.groupItem {
+  position: absolute;
+  top: 21.3px;
+  left: -0.7px;
+  border-top: 1.5px solid #9b51e0;
+  box-sizing: border-box;
+  width: 40.5px;
+  height: 1.5px;
+}
+.homeParent {
+  position: absolute;
+  top: 32px;
+  left: 496px;
+  width: 388px;
+  height: 22px;
+  font-size: var(--font-size-xs);
+  color: var(--color-silver);
+}
+.unsplashog44d93injkIcon {
+  position: absolute;
+  top: 248px;
+  left: 883px;
+  border-radius: 20px;
+  width: 447px;
+  height: 448px;
+  object-fit: cover;
+}
+.fastech {
+  position: absolute;
+  top: 32px;
+  left: 80px;
+  font-size: 32px;
+  letter-spacing: 1.5px;
+  line-height: 22px;
+  text-transform: uppercase;
+  background: linear-gradient(93.51deg, #9b51e0, #3081ed);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.gaslurLandingPage {
+  position: relative;
+  background-color: #1f1d2b;
+  width: 100%;
+  height: 840px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
